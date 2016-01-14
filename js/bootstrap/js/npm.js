@@ -110,3 +110,5 @@ require('../../js/affix.js')
 // hobby-session-50-1
 
 // hobby-session-65-2
+
+// hobby-session-66-1
